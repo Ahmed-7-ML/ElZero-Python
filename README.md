@@ -33,7 +33,7 @@ Each folder contains relevant **Python scripts, notes, and exercises** to help r
 ## 🚀 How to Use This Repository
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Python_Lessons_By_Elzero.git
+   git clone https://github.com/Ahmed-7-ML/ElZero-Python.git
    ```
 2. **Navigate to a lesson folder**
    ```bash
